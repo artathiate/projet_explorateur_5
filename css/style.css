@@ -1,0 +1,143 @@
+body
+{
+    font-family: 'Time New Roman'!important;
+    font-size: 18px;
+}
+#menu
+{
+background-color: grey  !important;
+opacity: 0,9px;
+background-repeat: no-repeat;
+background-size: 100% 100% !important;
+
+}
+.fonctionalité{
+    width: 20%;
+    height: 300px;
+    border: 2px solid black;
+}
+.fonctionalité1{
+    padding-left: 10px;
+    width: 20%;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.navbar-nav
+{
+    margin-left:550px !important;
+}
+#navbarResponsive{
+    text-align: center !important;
+}
+img.d-block{
+    width: 1000px;
+    height: 400px;
+}
+#image5
+{
+    height: 10% !important;
+    width: 100% !important;
+}
+#lien
+{
+
+}
+#lien:hover
+{
+    border: #a2a2a2 solid 4px !important;
+}
+a 
+{
+    color: #d73351 !important;
+}
+a:hover
+{
+
+    border-bottom: 2px solid #d73351 !important;
+    
+}
+
+#section_1
+{
+    background-color: #d73351;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+}
+#menu2
+{
+    padding-left: 400px !important;
+}
+.col-sm
+{
+      margin-left: 10px;
+
+}
+#menu3
+{
+    margin-left:620px !important;
+}
+@media (min-width: 200px) and (max-width:970px) {
+    .navbar-nav
+
+{
+    margin-left:0px !important;
+}
+#menu3
+{
+    margin-left:0px !important;
+}
+#bnt1{
+    position: relative;
+    left: -55px;
+}
+}
+
+#contact{
+    
+    
+     background-image: url(../image/coof.png);
+     background-size: 100% 100% !important;
+     height: 100% !important;
+}
+
+
+hr{
+    width: 50px;
+    color: grey;
+
+}
+
+
+.form-control{
+    color: #7a2525;
+}
+.form-group{
+font-family: 'Abslom', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #7a2525;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.btn-default{
+     border: none  solid  !important;
+    font-family: 'Abslom', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+    width: 200px;
+    height: 40px;
+    margin-left: 45%;
+}
+footer {
+    width: 100%;
+    height: 150%;
+
+     padding-top: 30px;
+    padding-bottom: 35px;
+    background-color: #d73351;
+}
